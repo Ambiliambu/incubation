@@ -25,4 +25,54 @@ features:<br/>
 ![Screenshot from 2022-10-05 10-25-16](https://user-images.githubusercontent.com/99420180/193984706-7be2bea5-c4eb-4a03-a3cf-864ea4eeada2.png)
 ![Screenshot from 2022-10-05 10-25-26](https://user-images.githubusercontent.com/99420180/193984721-65085670-bc4a-4aa3-a271-f7bf55b03e56.png)
 
+## Getting Started
 
+To get started you can simply clone this incubation repository and  install the dependencies.
+ 
+ #### Clone the incubation repository using git :<br/>
+ 
+ git clone https://github.com/Ambiliambu/ecommerce.git </h6><br/>
+ 
+ #### Change directory:
+ 
+ cd  incubation <br/>
+
+#### Install dependencies with this command :<br/>
+ 
+ npm install <br/>
+ 
+ #### Start frondend using :<br/>
+ 
+ npm start
+ 
+  #### Start backend using :<br/>
+  
+  npm run server
+  
+  
+  ##Login Details
+  
+  <table>
+  <tr>
+    <th>Email</th>
+    <th>Name</th>
+    <th>Password</th>
+    <th>Role</th>
+    
+  
+  </tr>
+  <tr>
+  <td>anna@gmail.com</td>
+  <td>anna</td>
+  <td>123</td>
+  <td>User</td>
+  </tr>
+   <tr>
+  <td>admin@gmail.com</td>
+  <td>admin</td>
+  <td>123456</td>
+  <td></td>
+  </tr>
+  
+
+</table>
