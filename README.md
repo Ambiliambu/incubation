@@ -50,7 +50,7 @@ To get started you can simply clone this incubation repository and  install the 
   npm run server
   
   
-  ##Login Details
+  ## Login Details
   
   <table>
   <tr>
@@ -71,7 +71,7 @@ To get started you can simply clone this incubation repository and  install the 
   <td>admin@gmail.com</td>
   <td>admin</td>
   <td>123456</td>
-  <td></td>
+  <td>Admin</td>
   </tr>
   
 
