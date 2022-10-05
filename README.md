@@ -20,4 +20,9 @@ features:<br/>
 
 ## Screeenshots
 ![Screenshot from 2022-10-05 10-24-31](https://user-images.githubusercontent.com/99420180/193984464-1372c3ef-e309-4367-8315-baf68bdd7e8f.png)
+![Screenshot from 2022-10-05 10-23-11](https://user-images.githubusercontent.com/99420180/193984646-ac9ed2a4-6f45-4015-8ac9-4530198aa121.png)
+![Screenshot from 2022-10-05 10-25-08](https://user-images.githubusercontent.com/99420180/193984682-5d650334-b0e9-4cbd-be58-8230f17ab81c.png)
+![Screenshot from 2022-10-05 10-25-16](https://user-images.githubusercontent.com/99420180/193984706-7be2bea5-c4eb-4a03-a3cf-864ea4eeada2.png)
+![Screenshot from 2022-10-05 10-25-26](https://user-images.githubusercontent.com/99420180/193984721-65085670-bc4a-4aa3-a271-f7bf55b03e56.png)
+
 
