@@ -17,3 +17,7 @@ features:<br/>
 . admin can change the status of application like approve ,decline.<br/>
 . also admin can see the progress in progressbar.<br/>
 . admin can view application details.<br/>
+
+## Screeenshots
+![Screenshot from 2022-10-05 10-24-31](https://user-images.githubusercontent.com/99420180/193984464-1372c3ef-e309-4367-8315-baf68bdd7e8f.png)
+
