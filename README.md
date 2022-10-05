@@ -31,7 +31,7 @@ To get started you can simply clone this incubation repository and  install the 
  
  #### Clone the incubation repository using git :<br/>
  
- git clone https://github.com/Ambiliambu/ecommerce.git </h6><br/>
+ git clone https://github.com/Ambiliambu/incubation.git </h6><br/>
  
  #### Change directory:
  
