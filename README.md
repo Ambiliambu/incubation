@@ -5,21 +5,19 @@ The project is divided into 2 sections-user and admin<br/>
 
 USER<br/>
 features:<br/>
-. user can register and login into the website.<br/>
-. after logging in,user can register the company filling in a form and upload a a company logo.<br/>
-. upload logo is stored in cloudinary.<br/>
-. validation is done by using use form hook.<br/>
+* user can register and login into the website.<br/>
+* after logging in,user can register the company filling in a form and upload a a company logo.<br/>
+* upload logo is stored in cloudinary.<br/>
+* validation is done by using use form hook.<br/>
 
 ADMIN<br/>
 features:<br/>
-. admin can login into website and manage user.<br/>
-. admin can see the application status of user.<br/>
-. admin can change the status of application like approve ,decline.<br/>
-. also admin can see the progress in progressbar.<br/>
-<<<<<<< HEAD
-. admin can view application details.<br/>
-=======
-. admin can view application details.<br/>
+* admin can login into website and manage user.<br/>
+* admin can see the application status of user.<br/>
+* admin can change the status of application like approve ,decline.<br/>
+* also admin can see the progress in progressbar.<br/>
+* admin can view application details.<br/>
+
 
 ## Screeenshots
 ![Screenshot from 2022-10-05 10-24-31](https://user-images.githubusercontent.com/99420180/193984464-1372c3ef-e309-4367-8315-baf68bdd7e8f.png)
@@ -34,26 +32,33 @@ To get started you can simply clone this incubation repository and  install the 
  
  #### Clone the incubation repository using git :<br/>
  
- git clone https://github.com/Ambiliambu/incubation.git </h6><br/>
+ `git clone https://github.com/Ambiliambu/incubation.git `</h6><br/>
  
  #### Change directory:
  
- cd  incubation <br/>
+ `cd  incubation` <br/>
 
 #### Install dependencies with this command :<br/>
  
- npm install <br/>
+ `npm install `<br/>
  
  #### Start frondend using :<br/>
  
- npm start
+ `npm start`
  
   #### Start backend using :<br/>
   
-  npm run server
+  `npm run server`
   
   
   ## Login Details
+
+
+
+    First Header  | Second Header | 
+    ------------- | ------------- |
+    Content Cell  | Content Cell  |
+    Content Cell  | Content Cell  |
   
   <table>
   <tr>
@@ -79,4 +84,4 @@ To get started you can simply clone this incubation repository and  install the 
   
 
 </table>
->>>>>>> origin/master
+
