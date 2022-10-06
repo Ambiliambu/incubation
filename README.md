@@ -1,6 +1,6 @@
 # incubation management
 
-This is a incubation management system designed  to incuate start-ups.<br/>
+This is a incubation management system designed  to incubate start-ups.<br/>
 The project is divided into 2 sections-user and admin<br/>
 
 USER<br/>
