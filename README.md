@@ -53,12 +53,6 @@ To get started you can simply clone this incubation repository and  install the 
   
   ## Login Details
 
-
-
-    First Header  | Second Header | 
-    ------------- | ------------- |
-    Content Cell  | Content Cell  |
-    Content Cell  | Content Cell  |
   
   <table>
   <tr>
