@@ -16,4 +16,4 @@ features:<br/>
 . admin can see the application status of user.<br/>
 . admin can change the status of application like approve ,decline.<br/>
 . also admin can see the progress in progressbar.<br/>
-  admin can view application details.<br/>
+. admin can view application details.<br/>
